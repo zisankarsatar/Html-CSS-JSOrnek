@@ -73,11 +73,11 @@ nav ul il{display:inline; margin:5px;}
    <li>1986	Highway to Heaven - Sezon3 Bölüm 1-2	Todd Bryant</li>
    <li>1985	Highway to Heaven - Sezon2 Bölüm 6	Eric Travers</li>
   </ol>
-   <a href="ust">Üste Dön</a>
+   <a href="#ust">Üste Dön</a>
 </nav>
 <nav>
 <a name="video"></a>
-<b>YouTube Videolarý</b>
+<b>YouTube Videolarý</b></br>
 Bu viedo Paul Walker tamamlayamadýðý son filminden(Fast and Frious 7), kendisi 
 için hazýrlanan veda kýsmýdýr. Viedoyu izlemek için
 <a href="https://www.youtube.com/watch?v=vRLDSVltaGs&t=179s">týklayýnýz.</a></br>
@@ -86,7 +86,7 @@ Buda kendisi için hazýrlanan baþka bir þarký, ayný anda film müziði.Dinlemek içi
 Yaþamýný yitirdikten sonra gündeme bomba gibi düþen haberlerden, izlemek için
 <a href="https://www.youtube.com/watch?v=JsUbDfB9k94&t=156s">týklayýnýz.</a></br>
 
-<a href="ust">Üste Dön</a>
+<a href="#ust">Üste Dön</a>
 </nav>
  </body>
 </html>
