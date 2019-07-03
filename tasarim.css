@@ -1,11 +1,16 @@
 body
 {
-    background-image:url(resimler/arka1.jpg); 
+    background-image:url(resimler/arka4.jpg); 
     background-repeat:no-repeat ;
     background-size:cover ;
-background-attachment: fixed;
-    background-attachement: fixed;
+    background-attachment: fixed;
 }
-
+#bolumStili
+{
+    background-color:whitesmoke;
+    border: 2px solid plum;
+    border-radius: 12px;
+    
+}
 
 
